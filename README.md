@@ -99,21 +99,6 @@
 </p>
 
 ---
-
-# 🔝 Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=raghulpalanikumar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=raghulpalanikumar&icon=5&color=6"/>
-</p>
-
----
-
 <h3 align="center">
 ⭐ “Code. Build. Learn. Repeat.” ⭐
 </h3>
