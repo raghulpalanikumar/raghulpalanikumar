@@ -49,13 +49,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=raghulpalanikumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghulpalanikumar&show_icons=true&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=raghulpalanikumar&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=raghulpalanikumar&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghulpalanikumar&theme=dark&hide_border=false&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghulpalanikumar&layout=compact&theme=dark)
 
 ### ✍️ Random Dev Quote
 
