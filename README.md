@@ -98,23 +98,27 @@
 
 ---
 
-# 🟢 GeeksforGeeks Profile
 
-<p align="center">
+# 🟢 GeeksforGeeks Analytics
+
+<div align="center">
 
 <a href="https://www.geeksforgeeks.org/profile/raghulv6dh/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Full%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-Enthusiast-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Daily-Coding%20Practice-orange?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/DSA%20Problems%20Solved-200%2B-2F8D46?style=for-the-badge&labelColor=1b1b1b"/>
 
----
+<img src="https://img.shields.io/badge/Coding%20Streak-Consistent-orange?style=for-the-badge&labelColor=1b1b1b"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Advanced-blue?style=for-the-badge&labelColor=1b1b1b"/>
+
+<img src="https://img.shields.io/badge/Daily%20Practice-Active-success?style=for-the-badge&labelColor=1b1b1b"/>
+
+</div>
+
 
 # 🏆 GitHub Trophies
 
