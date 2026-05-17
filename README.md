@@ -13,6 +13,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/raghulpg122/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,9 +22,18 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/raghulv6dh/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://unstop.com/u/praghulj2834?edit=profile" target="_blank">
+<img src="https://img.shields.io/badge/Unstop-4D67FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="mailto:raghulpg2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -31,6 +41,7 @@
 # 💻 Tech Stack
 
 ### 🚀 Languages
+
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -40,6 +51,7 @@
 </p>
 
 ### 🌐 Web Development
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -48,6 +60,7 @@
 </p>
 
 ### 🗄️ Databases & Cloud
+
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -55,6 +68,7 @@
 </p>
 
 ### ⚒️ Tools & Platforms
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,18 +82,34 @@
 
 <div align="center">
 
-
-
 <img height="170em" src="https://streak-stats.demolab.com?user=raghulpalanikumar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧩 LeetCode Stats
+# 🧩 Coding Profiles
+
+## 🔥 LeetCode Stats
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/raghulpalanikumar?theme=dark&font=Karma&ext=heatmap"/>
+</p>
+
+---
+
+## 🟢 GeeksforGeeks Profile
+
+<p align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/raghulv6dh/" target="_blank">
+<img src="https://img.shields.io/badge/Visit-My_GFG_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=raghulv6dh&theme=tokyonight"/>
 </p>
 
 ---
@@ -99,6 +129,7 @@
 </p>
 
 ---
+
 <h3 align="center">
-⭐ “Code. Build. Learn. Repeat.” ⭐
+⭐ Code • Build • Learn • Repeat ⭐
 </h3>
