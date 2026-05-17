@@ -1,20 +1,30 @@
-# Raghul P G
+# Hi, I'm Raghul P G 👋
+
 **Full-Stack Developer · ML Enthusiast · Open Source Contributor**
 
 I build full-stack web applications and explore machine learning — currently focused on MERN stack development, Spring Boot, and AWS. I care about clean architecture, performance, and turning ideas into working products.
 
 ---
 
-## Currently
+## 🚀 Currently
 
-- Building production-grade full-stack applications with the MERN stack
-- Learning Spring Boot, AWS, and advanced system design
-- Practicing Data Structures & Algorithms daily on LeetCode
-- Open to collaborating on open-source and beginner-friendly ML projects
+- 🔭 Building production-grade full-stack applications with the MERN stack
+- 🌱 Learning Spring Boot, AWS, and advanced system design
+- 💡 Practicing Data Structures & Algorithms daily on LeetCode
+- 🤝 Open to collaborating on open-source and beginner-friendly ML projects
+- 💬 Ask me about Java, React.js, Node.js, REST APIs, and Git/GitHub
 
 ---
 
-## Tech Stack
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghulpg122/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raghulpalanikumar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghulpg2006@gmail.com)
+
+---
+
+## 💻 Tech Stack
 
 **Languages**
 
@@ -44,30 +54,26 @@ I build full-stack web applications and explore machine learning — currently f
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghulpalanikumar&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghulpalanikumar&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=raghulpalanikumar&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghulpalanikumar&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## LeetCode
+## 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raghulpalanikumar?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
-## Top Contributions
+## 🔝 Top Contributed Repositories
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=raghulpalanikumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghulpg122/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/raghulpalanikumar/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghulpg2006@gmail.com)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=raghulpalanikumar&icon=3&color=0)](https://visitcount.itsvg.in)
