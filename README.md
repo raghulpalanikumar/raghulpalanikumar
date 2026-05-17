@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 💻 Passionate **Full-Stack Developer** focused on building scalable and impactful web applications.  
 🚀 Skilled in the **MERN Stack**, backend development, and problem-solving with Java.  
@@ -98,18 +98,20 @@
 
 ---
 
-## 🟢 GeeksforGeeks Profile
+# 🟢 GeeksforGeeks Profile
 
 <p align="center">
 
 <a href="https://www.geeksforgeeks.org/profile/raghulv6dh/" target="_blank">
-<img src="https://img.shields.io/badge/Visit-My_GFG_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=raghulv6dh&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Enthusiast-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Daily-Coding%20Practice-orange?style=for-the-badge"/>
 </p>
 
 ---
