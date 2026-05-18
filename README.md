@@ -3,9 +3,13 @@
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 💻 Passionate **Full-Stack Developer** focused on building scalable and impactful web applications.  
-🚀 Skilled in the **MERN Stack**, backend development, and problem-solving with Java.  
-🌱 Currently exploring **Spring Boot, AWS, System Design, and Machine Learning**.  
-🎯 Strong interest in creating clean UI experiences and optimized backend architectures.  
+
+🚀 Skilled in the **MERN Stack**, backend development, and problem-solving with Java.
+
+🌱 Currently exploring **Spring Boot, AWS, System Design, and Machine Learning**.
+
+🎯 Strong interest in creating clean UI experiences and optimized backend architectures. 
+
 ⚡ Love transforming ideas into real-world products with efficient and maintainable code.  
 
 ---
